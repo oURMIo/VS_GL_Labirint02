@@ -1,0 +1,19 @@
+﻿Сборка начата 06.04.2018 20:39:01.
+     1>Проект "D:\Progremir_2017-1018_C++\Laber_Stenk\Laber_Stenk\Laber_Stenk.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Labyrinth.cpp
+         Labyrinth.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Progremir_2017-1018_C++\Laber_Stenk\Release\Laber_Stenk.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Progremir_2017-1018_C++\Laber_Stenk\Release\Laber_Stenk.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Progremir_2017-1018_C++\Laber_Stenk\Release\Laber_Stenk.lib" /MACHINE:X86 /SAFESEH Release\Labyrinth.obj
+         Создание кода
+         Создание кода завершено
+     1>glaux.lib(image.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glaux.lib(tkimage.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glaux.lib(tkdib.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glaux.lib(tk.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>D:\Progremir_2017-1018_C++\Laber_Stenk\Release\Laber_Stenk.exe : fatal error LNK1281: Не удается создать образ SAFESEH.
+     1>Сборка проекта "D:\Progremir_2017-1018_C++\Laber_Stenk\Laber_Stenk\Laber_Stenk.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:03.92
